@@ -1,7 +1,7 @@
 ---
 title: "Session By Team Sigma-Day 1"
 date: 2023-01-27
-description: 'We all gathered at Venkatesh's house for the session. The team arrived at 5:00 all of us welcomed them. We explained...'
+description: 'We all gathered at the house of Venkatesh for the session. The team arrived at 5:00 all of us welcomed them. We explained...'
 image: images/blogs/
 ---
 We all gathered at Venkatesh's house for the session. The team arrived at 5:00 all of us welcomed them. We explained our robot to them and told them our strategy for the manual control period. 
