@@ -20,6 +20,17 @@ menu:
 
 •A platform to spread outreach
 
+### Sponsor Goverment of Goa
+---
+title: 'Sponsor us'
+image: images/MNKJ.jpeg
+url: "sponsor"
+menu:
+  main:
+    weight: 3
+---
+
+## Wear Mask Follow Physical Distancing Maintain Hand Hygiene
 <br>
 
 <button style=" width: 250px;
